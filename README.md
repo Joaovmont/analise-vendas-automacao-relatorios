@@ -5,10 +5,7 @@ Objetivo: Este projeto tem como objetivo analisar uma base de dados de vendas, i
 
 Ferramentas utilizadas:
 
-Python
-Pandas
-SMTP (envio de e-mail)
-VSCode
+Python, Pandas, SMTP, VSCode
 
 
 Etapas do projeto:

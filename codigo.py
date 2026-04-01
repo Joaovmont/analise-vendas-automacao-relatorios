@@ -24,7 +24,7 @@ Att, João.
 
 import yagmail
 
-usuario = yagmail.SMTP("jvmmcode@gmail.com" , "oeuyrlowvvjzpnif")
+usuario = yagmail.SMTP("jvmmcode@gmail.com" , "#[chave do App]")
 usuario.send(to = "jvmmcode@gmail.com", 
              subject = "Ranking das lojas", 
               contents = mensagem)
